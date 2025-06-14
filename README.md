@@ -2,7 +2,7 @@
 
 **Autor:** Antonio Crepaldi
 **Projeto:** embarcatech-freertos-tarefa-1
-**Data:** 14 de Junho de 2025
+**Data:** 13 de Junho de 2025
 
 ---
 
